@@ -1,0 +1,12 @@
+static const icMainTabCategoryNormalPng = 'assets/images/ic_main_tab_category_normal.png';
+static const icMainTabCategorySelectedPng = 'assets/images/ic_main_tab_category_selected.png';
+static const icMainTabCollectNormalPng = 'assets/images/ic_main_tab_collect_normal.png';
+static const icMainTabCollectSelectedPng = 'assets/images/ic_main_tab_collect_selected.png';
+static const icMainTabLabelNormalPng = 'assets/images/ic_main_tab_label_normal.png';
+static const icMainTabLabelSelectedPng = 'assets/images/ic_main_tab_label_selected.png';
+static const icMainTabMineNormalPng = 'assets/images/ic_main_tab_mine_normal.png';
+static const icMainTabMineSelectedPng = 'assets/images/ic_main_tab_mine_selected.png';
+static const icMainTabHomeSelectedPng = 'assets/images/ic_main_tab_home_selected.png';
+static const icMainTabHomeNormalPng = 'assets/images/ic_main_tab_home_normal.png';
+static const icMainTabSearchNormalPng = 'assets/images/ic_main_tab_search_normal.png';
+static const icMainTabSearchSelectedPng = 'assets/images/ic_main_tab_search_selected.png';
